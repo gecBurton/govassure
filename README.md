@@ -98,7 +98,7 @@ This helps people work consistently and to follow recommended practice (often wi
 ### Joining up across different functions
 Functional standards are designed to work as a ‘suite’. Clause 1.3 of each standard explains which other standards are directly necessary for the work within scope, and the main body of a standard cross-refers to other standards where needed. Cross-references highlight the circumstances where more than one type of functional work is relevant, and provide context for those setting cross-government requirements and guidance. Where joined-up working is particularly important, functions may decide to create shared products.
 
-Accountability in organisations
+## Accountability in organisations
 GovS 001, Government functions clause 4.6 sets accountabilities for management of functions, and functional standards. It differentiates between the roles at the centre, in departments and in arm’s length bodies.
 
 Essentially, departmental function leaders are accountable for ensuring their department and its arm’s length bodies adopt their function’s standard, and functional leaders in arm’s length bodies are accountable to their Accounting Officer for doing so. Functional leaders in departments should ensure that functional leaders in arm’s length bodies (and their department’s arm’s length body sponsor team) understand what adoption of functional standards means in practice for each arm’s length body. Each arm’s length body needs a governance and management framework in place for the types of functional work they do.
@@ -107,117 +107,145 @@ The application of functional standards should be proportionate to the scale and
 
 Note: in adopting the suite of functional standards, each organisation should ensure that someone is appointed to relevant organisational roles in each relevant functional standard, to reflect the work done by the organisation.
 
-Aligning within organisations
+## Aligning within organisations
 Within organisations, cross-government requirements and guidance should be used wherever practicable, and locally tailored material should be aligned to the standard.
 
 Clause 4.1 of each standard requires that the governance and management framework for the work in scope be integrated with an organisation’s existing governance and management arrangements (i.e., with the way the organisation as a whole is run).
 
 There should be opportunities to align the content of different governance and management frameworks within an organisation, or across a family of organisations. Different frameworks within the same organisation should be designed to support and complement one another – in particular to rationalise and align products that are relevant for more than one type of functional work.
 
-Cross-government functional documentation on GOV.UK
+## Cross-government functional documentation on GOV.UK
 The standards are presented consistently on GOV.UK, to meet Government Digital Service guidance. A standard and its associated continuous improvement assessment framework (where available) are published together.
 
 The primary links made from a functional standard’s page are to collections for:
 
-associated cross-government documentation, including the requirements and guidance people need to follow to meet the standard
-the full suite of functional standards
-Cross-government documentation related to the functional standard should be grouped together as a collection or group of several collections (see figure 2), and requirements and guidance consistently categorised.
+* associated cross-government documentation, including the requirements and guidance people need to follow to meet the standard
+* the full suite of functional standards
+* Cross-government documentation related to the functional standard should be grouped together as a collection or group of several collections (see figure 2), and requirements and guidance consistently categorised.
 
-Note: tailored or specialised products that apply in a specific organisation can also be grouped as a collection (whether published on GOV.UK or shared with users through an organisation’s intranet). Links should always be made to relevant cross-government documentation and the full suite of functional standards.
+> Note: tailored or specialised products that apply in a specific organisation can also be grouped as a collection (whether published on GOV.UK or shared with users through an organisation’s intranet). Links should always be made to relevant cross-government documentation and the full suite of functional standards.
 
 
 Figure 2: recommended positioning of a functional standard and associated documentation on GOV.UK
 
-Categorising, writing and managing requirements and guidance
-Overview
+## Categorising, writing and managing requirements and guidance
+
+### Overview
 Figure 3, drawn from GovS 001, Government functions, illustrates the main ‘input’ products (requirements and guidance) that support users to meet a standard:
 
-common products that apply consistently across government (set by functions)
-tailored or specialised products that apply in a particular organisation (set by departments and/or arm’s length bodies)
+* common products that apply consistently across government (set by functions)
+* tailored or specialised products that apply in a particular organisation (set by departments and/or arm’s length bodies)
 
 Figure 3: the relationship between functional standards and associated requirements and guidance (source: GovS 001, Government functions)
 
-Categorising
+### Categorising
 Using consistent categories for requirements and guidance makes document management easier, and helps people understand the status of the material they are reading. Section 6 of this Guide provides definitions to be used consistently by functions to produce or refine cross-government requirements and guidance, including consistent use of GOV.UK content types when publishing on GOV.UK. The definitions in section 6 are also recommended for use within organisations, to help align their tailored or specialised products to the functional standard.
 
-Writing and signposting
+### Writing and signposting
 Functional requirements and guidance should be written to meet usual requirements for government products (see GDS style guide), and should be topped and tailed so that they:
 
-refer directly to the functional standard at the beginning (for example, this product “helps readers meet XX aspects of the YY functional standard”)
-refer out to other relevant documents for ease of navigation for users
-use the same language as the functional standard where the intent is the same (try not to paraphrase, as that introduces ambiguity)
-use definitions drawn from the Functional standards common glossary
-Managing
+* refer directly to the functional standard at the beginning (for example, this product “helps readers meet XX aspects of the YY functional standard”)
+* refer out to other relevant documents for ease of navigation for users
+* use the same language as the functional standard where the intent is the same (try not to paraphrase, as that introduces ambiguity)
+* use definitions drawn from the Functional standards common glossary
+
+## Managing
 Requirements and guidance should:
 
-be governed and managed to align to the standard
-be produced using the categories described in section 6
-be reviewed periodically to ensure that each document is up to date and still needed
-be withdrawn if no longer needed
+* be governed and managed to align to the standard
+* be produced using the categories described in section 6
+* be reviewed periodically to ensure that each document is up to date and still needed
+* be withdrawn if no longer needed
+
 The standard manager should be consulted about the alignment of new and existing cross-government products to the standard. Cross-government products should be managed as a coherent collection. Oversight by a single individual or team at the centre of each function is recommended, to avoid duplication and proliferation of products. Where possible, mixing product types should be avoided, to make it easier to keep the component parts of the collection up to date and relevant. For example, an important process should not be hidden within an educational guide – instead, guidance should refer out to the separately badged process. Managing products in this way encourages creation of an informed community of practice for those with an oversight role for collections of products, and the adoption of shared protocols. Multi-function products should be considered where it adds value for users. Management policies and codes of practice are the products most likely to cover topics that straddle the interests of more than one function.
 
-Categories for requirements and guidance
-Overview
+## Categories for requirements and guidance
+
+### Overview
+
 This section defines the types of requirement and guidance documents typically used to help people comply with a functional standard. The recommended categories are shown in figure 4. Each category is explained in more detail in the rest of this section. Use management policies, subject specific standards, processes and professional standards for documents where you know you are setting requirements that people need to follow, and use codes of practice, handbooks and guides, tools and techniques to provide additional information, explanations, and supporting examples to make it easy for people to comply. Wherever appropriate, take opportunities to reference back from guidance to requirements and to functional standards, so that the full set of documentation people need to follow is coherent. Organisations can define extra categories if required, to meet the needs of their business.
 
 
 Figure 4: recommended categories of requirements and guidance to meet a functional standard
 
-Management policies
-Purpose	To set direction and or the approach to be taken relating to the delivery of critical aspects of functional activity, reflecting relevant government strategies.
-Scope	Delivery of defined government policies. Aimed at senior stakeholders.
-Owned by	Usually the Head of function, or another individual as delegated by them.
-Content type on GOV.UK	Policy papers.
-Brand	HM Government for cross-government management policies. For management policies issued by an individual function or organisation, the brand associated with the owner should be used.
-Additional information	Management policies are short, information-rich documents, regularly reviewed and kept up to date. Management policies: can relate to one function, or to a cross-functional issue such as ‘automation’ or ‘data’ (in which case, ownership of cross cutting policies should be clear), should always reference relevant functional and subject specific standards, shouldn’t include educational elements (which are covered by associated codes of practice, handbooks or guides). All relevant requirements and guidance should be reviewed and updated to comply with newly issued management policies.
-Examples	policy notes, schemes of delegation, functional and organisation policies
-Subject specific standards
-Purpose	To set particular procedures to be followed, language to be used, and or performance criteria to be met in a particular field.
-Scope	Delivery or management of defined work. Can apply to a product, delivery of a policy or service, or supply of materials. Performance criteria can relate to an output (tangible and intangible), or an activity (manual or automated). These standards are aimed primarily at practitioners.
-Owned by	A senior leader, a head of profession or another defined subject matter expert, to suit the work within scope of the standard.
-Content type on GOV.UK	Standard.
-Brand	HM Government for cross-government subject-specific standards. For subject-specific standards issued by an individual function, profession or organisation, the brand associated with the owner should be used.
-Additional information	Processes, codes of practice and guidance can draw on or support subject specific standards. Standards can include mandatory (“shall”) elements, as well as advisory (“should”) elements. Minimum service levels or data requirements would be written as “shall”. The subject-specific standards should support collaboration and interoperability by: enabling the development of cross-government platforms, workflow tools and automation, setting requirements for other publicly available standards to be used (for example BSI or ISO)
-Examples	business planning in government, security requirements, service standards, data standards
+### Management policies
+| | |
+|---|---|
+|Purpose|To set direction and or the approach to be taken relating to the delivery of critical aspects of functional activity, reflecting relevant government strategies.|
+|Scope|Delivery of defined government policies. Aimed at senior stakeholders.|
+|Owned by|Usually the Head of function, or another individual as delegated by them.|
+|Content type on GOV.UK|Policy papers.|
+|Brand| HM Government for cross-government management policies. For management policies issued by an individual function or organisation, the brand associated with the owner should be used.|
+|Additional information|Management policies are short, information-rich documents, regularly reviewed and kept up to date. Management policies: can relate to one function, or to a cross-functional issue such as ‘automation’ or ‘data’ (in which case, ownership of cross cutting policies should be clear), should always reference relevant functional and subject specific standards, shouldn’t include educational elements (which are covered by associated codes of practice, handbooks or guides). All relevant requirements and guidance should be reviewed and updated to comply with newly issued management policies.|
+|Examples|policy notes, schemes of delegation, functional and organisation policies|
+
+### Subject specific standards
+| | |
+|---|---|
+|Purpose|To set particular procedures to be followed, language to be used, and or performance criteria to be met in a particular field.|
+|Scope|Delivery or management of defined work. Can apply to a product, delivery of a policy or service, or supply of materials. Performance criteria can relate to an output (tangible and intangible), or an activity (manual or automated). These standards are aimed primarily at practitioners.|
+|Owned by|A senior leader, a head of profession or another defined subject matter expert, to suit the work within scope of the standard.|
+|Content type on GOV.UK|Standard.|
+|Brand|HM Government for cross-government subject-specific standards. For subject-specific standards issued by an individual function, profession or organisation, the brand associated with the owner should be used.|
+|Additional information|Processes, codes of practice and guidance can draw on or support subject specific standards. Standards can include mandatory (“shall”) elements, as well as advisory (“should”) elements. Minimum service levels or data requirements would be written as “shall”. The subject-specific standards should support collaboration and interoperability by: enabling the development of cross-government platforms, workflow tools and automation, setting requirements for other publicly available standards to be used (for example BSI or ISO)|
+|Examples|business planning in government, security requirements, service standards, data standards|
+
 For more information about developing and managing subject specific standards, please contact standards@cabinetoffice.gov.uk.
 
-Processes
-Purpose	To set out exactly how a series of activities achieve a specific end, so that these steps can be embedded into ways of working.
-Scope	Delivery of defined functional work. Processes require an input, a transforming activity, an output, resources to undertake the activity, and performance metrics. They are aimed at practitioners.
-Owned by	A senior subject matter expert, supported by a team.
-Content type on GOV.UK	Guidance. For mandatory processes the content type ‘Standard’ might be appropriate, but this is subject to agreement by the HOF and the functional standards design authority (see also GovS 001: Government functions).
-Brand	HM Government for cross-government processes. For processes issued by an individual function or organisation, the brand associated with the owner should be used.
-Additional information	Clearly defined processes: support effective decision making, and enable risk based controls to be applied consistently, can provide a framework for guidance, procedures, templates and tools, so a person following the process can be fed relevant documentation (or access to IT systems) at the right time. Process models should join up across the system and be consistent, to aid collaboration and interoperability. Consideration should be given to using the same workflow tool across functions, to define process maps and build interfaces that are coherent and appropriate.
-Examples	global finance processes, major project authorisation
-Professional standards
-Purpose	To set out the roles and associated skills, experience and learning needed to undertake functional work. This includes any required professional qualifications, whether they are externally accredited qualifications or defined internal/non-regulated requirements.
-Scope	To deliver defined functional work. They are aimed at members of a profession in government.
-Owned by	A head of profession, supported by the relevant profession.
-Content type on GOV.UK	Standard
-Brand	Profession
-Additional information	Professional standards should set out the skills and experience required by functions to undertake current and future functional work in a way that meets the relevant functional standard. There can be variations between professional standards but as a minimum they should set out key roles for their respective functions, the skills and competencies required for each role and each grade/ level as well as requirements for professional development and qualifications.
-Examples	HR professional standards, Project delivery capability framework, Property capability framework
-Codes of practice
-Purpose	To provide essential information covering a wide and deep topic in enough detail for practitioners, but presented strategically to be appropriate for senior leaders and other users.
-Scope	To deliver defined functional work. A code of practice should be aimed at senior leaders and practitioners.
-Owned by	A senior subject matter expert, supported by a team.
-Content type on GOV.UK	Guidance
-Brand	HM Government for cross-government codes of practice. For codes of practice issued by an individual function, profession or organisation, the brand associated with the owner should be used.
-Additional information	Codes of practice enable people to meet relevant functional standards and: comprise the most important cross-government requirements and guidance, can encompass the interests of more than one function, should reference all necessary processes, subject specific standards, guidance and other supporting documentation, should never be the sole vehicle for setting mandatory requirements, which should be drawn from a standard. Note: the term ‘code of practice’ need not be in the main title of the document, for example there are government playbooks and coloured books with their own established identities. However, it is recommended that the subtitle uses the term, for example ‘XXX; code of practice for YYY’.
-Examples	Commercial playbooks, Technology codes of practice, Green Book
-Handbooks and guides
-Purpose	To inform or educate.
-Scope	Handbooks provide advice to practitioners, covering how to approach specific issues of interest (for a specialist reader). Guides provide advice to any relevant person (for a general reader).
-Owned by	A subject matter expert.
-Content type on GOV.UK	Guidance
-Brand	HM Government for cross-government handbooks or guides. For handbooks or guides issued by an individual function, profession or organisation, the brand associated with the owner should be used.
-Additional information	Clarify whether the product is a handbook (aimed at practitioners) or a guide (aimed at general reader), so readers know what to expect. Handbooks and guides should: clearly signpost all relevant requirements, and support readers on how to meet them, should never be the sole vehicle for requirements (the latter should be drawn from a standard), be checked for clarity and alignment as handbooks and manuals for service are often not given enough attention- regular checks can avoid duplication or redundant guides and handbooks. Tools and techniques can be incorporated into handbooks and guides, or vice versa.
-Examples	Handbook: Handbook for standard managers. Handbook: Project initiation routemap (project delivery function). Guide: Guide to functional standards. Guide: GDS style guide
-Tools and techniques
-Purpose	To provide practical help for the user to do something.
-Scope	To cover any functional work. A tool is a practical device or IT application such as a modelling programme. A technique is a tested way of doing something. They are both aimed at practitioners.
-Owned by	A subject matter expert.
-Content type on GOV.UK	Guidance
-Brand	HM Government for cross-government tools and techniques. For tools and techniques issued by an individual function, profession or organisation, the brand associated with the owner should be used.
-Additional information	Tools and techniques support continuous improvement and professional development. They should be: regularly tested and updated when used across government, signposted from other guidance, to aid effectiveness and collaboration, referenced by professional development and functional induction where relevant. Tools and techniques can be incorporated into handbooks and guides, or vice versa.
-Examples	statistical tools, facilitation and workshop techniques, continuous improvement assessment frameworks
+### Processes
+
+| | |
+|---|---|
+|Purpose|To set out exactly how a series of activities achieve a specific end, so that these steps can be embedded into ways of working.|
+|Scope|Delivery of defined functional work. Processes require an input, a transforming activity, an output, resources to undertake the activity, and performance metrics. They are aimed at practitioners.|
+|Owned by|A senior subject matter expert, supported by a team.|
+|Content type on GOV.UK	Guidance. For mandatory processes the content type ‘Standard’ might be appropriate, but this is subject to agreement by the HOF and the functional standards design authority (see also GovS 001: Government functions).|
+|Brand|HM Government for cross-government processes. For processes issued by an individual function or organisation, the brand associated with the owner should be used.|
+|Additional information|Clearly defined processes: support effective decision making, and enable risk based controls to be applied consistently, can provide a framework for guidance, procedures, templates and tools, so a person following the process can be fed relevant documentation (or access to IT systems) at the right time. Process models should join up across the system and be consistent, to aid collaboration and interoperability. Consideration should be given to using the same workflow tool across functions, to define process maps and build interfaces that are coherent and appropriate.|
+|Examples|global finance processes, major project authorisation|
+
+### Professional standards
+| | |
+|---|---|
+|Purpose|To set out the roles and associated skills, experience and learning needed to undertake functional work. This includes any required professional qualifications, whether they are externally accredited qualifications or defined internal/non-regulated requirements.|
+|Scope|To deliver defined functional work. They are aimed at members of a profession in government.|
+|Owned by|A head of profession, supported by the relevant profession.|
+|Content type on GOV.UK|Standard|
+|Brand|Profession|
+|Additional information|Professional standards should set out the skills and experience required by functions to undertake current and future functional work in a way that meets the relevant functional standard. There can be variations between professional standards but as a minimum they should set out key roles for their respective functions, the skills and competencies required for each role and each grade/ level as well as requirements for professional development and qualifications.|
+|Examples	HR professional standards, Project delivery capability framework, Property capability framework|
+
+### Codes of practice
+| | |
+|---|---|
+|Purpose|To provide essential information covering a wide and deep topic in enough detail for practitioners, but presented strategically to be appropriate for senior leaders and other users.|
+|Scope|To deliver defined functional work. A code of practice should be aimed at senior leaders and practitioners.|
+|Owned by|A senior subject matter expert, supported by a team.|
+|Content type on GOV.UK|Guidance|
+|Brand|HM Government for cross-government codes of practice. For codes of practice issued by an individual function, profession or organisation, the brand associated with the owner should be used.|
+|Additional information|Codes of practice enable people to meet relevant functional standards and: comprise the most important cross-government requirements and guidance, can encompass the interests of more than one function, should reference all necessary processes, subject specific standards, guidance and other supporting documentation, should never be the sole vehicle for setting mandatory requirements, which should be drawn from a standard. Note: the term ‘code of practice’ need not be in the main title of the document, for example there are government playbooks and coloured books with their own established identities. However, it is recommended that the subtitle uses the term, for example ‘XXX; code of practice for YYY’.|
+|Examples|Commercial playbooks, Technology codes of practice, Green Book|
+
+### Handbooks and guides
+
+| | |
+|---|---|
+|Purpose|To inform or educate.|
+|Scope|Handbooks provide advice to practitioners, covering how to approach specific issues of interest (for a specialist reader). Guides provide advice to any relevant person (for a general reader).
+|Owned by|A subject matter expert.|
+|Content type on GOV.UK|Guidance|
+|Brand|HM Government for cross-government handbooks or guides. For handbooks or guides issued by an individual function, profession or organisation, the brand associated with the owner should be used.|
+|Additional information|Clarify whether the product is a handbook (aimed at practitioners) or a guide (aimed at general reader), so readers know what to expect. Handbooks and guides should: clearly signpost all relevant requirements, and support readers on how to meet them, should never be the sole vehicle for requirements (the latter should be drawn from a standard), be checked for clarity and alignment as handbooks and manuals for service are often not given enough attention- regular checks can avoid duplication or redundant guides and handbooks. Tools and techniques can be incorporated into handbooks and guides, or vice versa.|
+|Examples|Handbook: Handbook for standard managers. Handbook: Project initiation routemap (project delivery function). Guide: Guide to functional standards. Guide: GDS style guide
+
+### Tools and techniques
+
+| | |
+|---|---|
+|Purpose|To provide practical help for the user to do something.|
+|Scope|To cover any functional work. A tool is a practical device or IT application such as a modelling programme. A technique is a tested way of doing something. They are both aimed at practitioners.|
+|Owned by|A subject matter expert.|
+|Content|type on GOV.UK	Guidance|
+|Brand|HM Government for cross-government tools and techniques. For tools and techniques issued by an individual function, profession or organisation, the brand associated with the owner should be used.|
+|Additional information|Tools and techniques support continuous improvement and professional development. They should be: regularly tested and updated when used across government, signposted from other guidance, to aid effectiveness and collaboration, referenced by professional development and functional induction where relevant. Tools and techniques can be incorporated into handbooks and guides, or vice versa.|
+|Examples|statistical tools, facilitation and workshop techniques, continuous improvement assessment frameworks|
